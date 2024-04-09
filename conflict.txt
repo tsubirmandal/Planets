@@ -1,2 +1,2 @@
 this is a new file
-i wish to test the merhing between branches
+I have added one more line
